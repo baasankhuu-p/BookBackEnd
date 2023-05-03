@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "63eb57e1b0faf9e696d5bc10",
+        "fname": "Баасанхүү",
+        "lname": "Пүрэв",
+        "email": "baasankhuu@gmail.com",
+        "phone": 99455432,
+        "password": "12345678",
+        "address": "WX99+X7G, Улаанбаатар"
+    },
+    {
+        "_id": "63eb57e1b0faf9e696d5bc16",
+        "fname": "Дамдин",
+        "lname": "Батдорж",
+        "email": "DBatdorj@gmail.com",
+        "phone": 95452020,
+        "password": "12345678",
+        "address": "WX99+X7G, Улаанбаатар"
+    },
+    {
+        "_id": "63e9a666482286aecd06836a",
+        "fname": "Батбаяр",
+        "lname": "Сайнсанаа",
+        "email": "batbayar_sainsanaa@gmail.com",
+        "phone": 91153032,
+        "password": "12345678",
+        "address": "WX95+CR3, Улаанбаатар"
+    },
+    {
+        "_id": "63e9a666482286aecd06836f",
+        "fname": "Баяраа",
+        "lname": "Батук",
+        "email": "BBayaraa@gmail.com",
+        "phone": 95451959,
+        "password": "12345678",
+        "address": "WX96+JR Ulaanbaatar"
+    },
+    {
+        "_id": "63e9a666482286aecd068361",
+        "fname": "Батаа",
+        "lname": "Цэцгээ",
+        "email": "BTsetsgeea@gmail.com",
+        "phone": 95451950,
+        "password": "12345678",
+        "address": "WX96+JC Ulaanbaatar"
+    },
+    {
+        "_id": "63e9a666482286aecd068362",
+        "fname": "Батням",
+        "lname": "Алимаа",
+        "email": "BAlimaa@gmail.com",
+        "phone": 95451951,
+        "password": "12345678",
+        "address": "WX96+JD Ulaanbaatar"
+    }
+]

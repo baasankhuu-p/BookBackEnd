@@ -1,0 +1,27 @@
+{
+    "name": "Book-Market",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "colors": "^1.4.0",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "express-fileupload": "^1.4.0",
+        "jsonwebtoken": "^9.0.0",
+        "mongoose": "^6.8.3",
+        "morgan": "^1.10.0",
+        "npm": "^9.6.5",
+        "path": "^0.12.7",
+        "rotating-file-stream": "^3.0.4",
+        "transliteration": "^2.3.5"
+    }
+}

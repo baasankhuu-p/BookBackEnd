@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "63e762666a792acb46d3a366",
+        "username": "Админ",
+        "email": "admin@gmail.com",
+        "phone": "99455430",
+        "roler": "operator",
+        "password": "12345678"
+    },
+    {
+        "_id": "63e762666a792acb46d3a365",
+        "username": "Operator 1",
+        "email": "op1@gmail.com",
+        "phone": "95959590",
+        "roler": "operator",
+        "password": "12345678"
+    },
+    {
+        "_id": "63e762666a792acb46d3a361",
+        "username": "Operator 2",
+        "email": "op2@gmail.com",
+        "phone": "95959591",
+        "roler": "operator",
+        "password": "12345678"
+    }
+]
