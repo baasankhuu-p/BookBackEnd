@@ -1,5 +1,6 @@
 const express = require("express");
 const fileUpload = require("express-fileupload");
+var cors = require("cors");
 const dotenv = require("dotenv");
 var path = require("path");
 var rfs = require("rotating-file-stream");
@@ -23,6 +24,7 @@ const payRoutes = require("./src/routes/payment");
 const deliverRoutes = require("./src/routes/deliveryd");
 const commentsRoutes = require("./src/routes/comments");
 const app = express();
+app.use(cors());
 connectDB();
 // Log bichij bui baidal
 var accessLogStream = rfs.createStream("access.log", {
